@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (test)" />
+  </component>
   <component name="MaterialThemeProjectNewConfig">
     <option name="metadata">
       <MTProjectMetadataState>
@@ -14,5 +17,5 @@
       </MTProjectTitleBarConfigState>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (test)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Dayche_finance)" project-jdk-type="Python SDK" />
 </project>
